@@ -6,4 +6,4 @@ My Projects on air
 ⚡https://chat.alims.online/  
 ⚡https://yilbasikart.alims.online
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alionboard&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alionboard&show_icons=true&theme=radical&hide=issues&count_private=true)
