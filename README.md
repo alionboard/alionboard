@@ -2,9 +2,9 @@
 
 My Projects on air  
 <hr>
-⚡https://blogchu.alims.online/  
-⚡https://notchu.alims.online/  
-⚡https://chat.alims.online/  
+⚡https://blogchu.alims.online/ <br>
+⚡https://notchu.alims.online/  <br>
+⚡https://chat.alims.online/  <br>
 ⚡https://yilbasikart.alims.online  
 <hr>
 
