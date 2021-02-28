@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <hr>
-  <h6>My Projects</h6><br>
+  <h6>My Projects</h6>
 ⚡https://blogchu.alims.online/ <br>
 ⚡https://notchu.alims.online/  <br>
 ⚡https://chat.alims.online/  <br>
