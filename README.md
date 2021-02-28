@@ -1,7 +1,7 @@
-### Hi there 👋
+### Merhaba 👋
 
 <hr>
-  <h6>My Projects</h6>
+  <h6>yayındaki Projelerim</h6>
 ⚡https://blogchu.alims.online/ <br>
 ⚡https://notchu.alims.online/  <br>
 ⚡https://chat.alims.online/  <br>
