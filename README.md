@@ -6,6 +6,7 @@
 ⚡https://notchu.alims.online/  <br>
 ⚡https://chat.alims.online/  <br>
 ⚡https://yilbasikart.alims.online  
+<h6>Repositorylerime uğramayı unutmayın!</h6>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alionboard&layout=compact&locale=tr)](https://github.com/anuraghazra/github-readme-stats)  
