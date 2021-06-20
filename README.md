@@ -4,7 +4,6 @@
   <h6>Yayındaki Projelerim</h6>
 ⚡https://blogchu.alims.online/ <br>
 ⚡https://notchu.alims.online/  <br>
-⚡https://chat.alims.online/  <br>
 ⚡https://yilbasikart.alims.online  
 <h6>Repositorylerime uğramayı unutmayın!</h6>
 <hr>
